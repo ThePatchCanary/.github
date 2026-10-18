@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="https://raw.githubusercontent.com/ThePatchCanary/.github/main/profile/logo.svg" width="120" alt="PatchCanary logo"> !-->
+<img src="https://raw.githubusercontent.com/ThePatchCanary/.github/main/profile/patchcanary-avatar-circle.png" width="120" alt="PatchCanary logo">
 
 # PatchCanary
 
